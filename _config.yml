@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Coach Rye"
+title: "Coach Rye"
+description: "Jack of All Trades. Master of Myself."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
@@ -13,23 +13,24 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  rye:
+    name: Rye
+    display_name: Coach Rye
+    # avatar: 'assets/images/avatar.jpg'
+    gravatar: 8754b881e61a7906ce6acea815478a4f
+    email: rye@coachrye.com
+    web: https://www.coachrye.com
+    twitter: https://twitter.com/coachrye34
+    description: "Performance Coach. Productivity Geek. Entrepreneur."
+  bash:
+    name: Bash Sarmiento
+    display_name: Bash
+    avatar: 'https://media-exp1.licdn.com/dms/image/C5603AQFbWmxiruP7Fw/profile-displayphoto-shrink_800_800/0/1617706934112?e=1669248000&v=beta&t=ZAMBY3fwf6OmNgRhey_czQ6QgI-yiw6rgmx_E2Iakk8'
+    # gravatar: 8754b881e61a7906ce6acea815478a4f
+    email: bash.psarmientowrites@gmail.com
+    web: https://www.linkedin.com/in/ringwald-rommel-p-sarmiento-ii-69270413a/
+    # twitter: https://twitter.com/
+    description: "Educator. Writer. Proprietor."
 
 # Plugins
 plugins:
