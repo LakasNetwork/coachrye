@@ -192,7 +192,6 @@
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
-{% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
@@ -201,15 +200,11 @@
   gtag('js', new Date());
 
   if (typeof custom_name == 'undefined') {
-    var custom_name = 'blank';
-  }
-
+    var custom_name = document.title;
+  };
   gtag('config', '{{ site.google_analytics }}',{
-    'page_title' : custom_name
+    {% if jekyll.environment != 'production' %}    'debug_mode':true, {% endif %}'page_title' : custom_name
   });
 </script>
-{% endif %}
-
-
 </body>
 </html>
