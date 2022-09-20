@@ -206,6 +206,7 @@ section.recent-posts {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
+    display: block !important;
 }
 
 .toc ul {
