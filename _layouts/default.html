@@ -200,6 +200,10 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
+  if (typeof variable == 'undefined') {
+    var custom_name = 'blank';
+  }
+
   gtag('config', '{{ site.google_analytics }}',{
     'page_title' : custom_name
   });
