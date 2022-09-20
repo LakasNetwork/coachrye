@@ -3,7 +3,7 @@ name: "Coach Rye"
 title: "Coach Rye"
 description: "Jack of All Trades. Master of Myself."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+# favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
 google_analytics: 'G-F6E3JNRTKK'
 disqus: 'coachrye'
