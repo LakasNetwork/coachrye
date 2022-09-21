@@ -4,7 +4,6 @@ title: About Coach Rye
 permalink: /about
 comments: false
 ---
-
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <h4><em>Performance Coach. Productivity Geek. Entrepreneur.</em></h4>
@@ -50,6 +49,7 @@ font-style: normal;
 
 <a target="_blank" href="https://www.buymeacoffee.com/coachrye" class="btn btn-danger">Buy me a coffee</a> 
 
+<img src="https://avatars.githubusercontent.com/u/53946861" style="width: 100%;  border-radius: 10%; margin-top: 50px;"/>
 </div>
 </div>
 </div>
