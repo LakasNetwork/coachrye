@@ -3,6 +3,9 @@ layout: post
 title:  "The Golden Rule"
 date:   2021-11-01
 description: In the first of the Unquotable Quotes series, let's talk about the Golden Rule of doing unto others as you would have them do unto you.
+image: assets/images/2021-11-01-the-golden-rule.png
+author: rye
+categories: [ Mindful Musings ]
 ---
 
 The Golden Rule

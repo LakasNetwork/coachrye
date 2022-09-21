@@ -3,6 +3,9 @@ layout: post
 title:  "World Mental Health Day"
 date:   2021-10-11
 description: It was World Mental Health Day yesterday, what did you do for your mental health?
+image: assets/images/2021-10-11-world-mental-health-day.png
+author: rye
+categories: [ Mindful Musings ]
 ---
 
 It was World Mental Health Day yesterday, what did you do for your mental health?

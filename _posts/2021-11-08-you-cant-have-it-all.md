@@ -3,6 +3,9 @@ layout: post
 title:  "You can’t have it all"
 date:   2021-11-08
 description: You don’t always get what you want. It sucks but that’s life. And when it happens, it’s alright to dial down. It’s normal to feel sad.It’s ok to feel down. Then, when you are ready, you can slowly get back on your feet. As you get going again, you will start to forget that failed...
+image: assets/images/2021-11-08-you-cant-have-it-all.png
+author: rye
+categories: [ Coaching Convos, Mindful Musings ]
 ---
 
 You don’t always get what you want.
@@ -31,3 +34,5 @@ Keep this at the back of your mind.
 But for now, focus on the present.<br>
 Do what needs to be done today<br>
 … to get to where you really want to be.
+
+![smiley]({{ site.baseurl }}/assets/images/2021-11-08-you-cant-have-it-all-2.png)

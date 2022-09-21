@@ -3,6 +3,9 @@ layout: post
 title:  "Agile MBA™ with The Job Hackers"
 date:   2022-02-28
 description: The Agile MBA™ prepares participants to successfully navigate the complex, knowledge-based world
+image: assets/images/2022-02-28-agile-mba-with-the-job-hackers.png
+author: rye
+categories: [ Tech Talk ]
 ---
 
 I was referred to the Agile MBA™ program by a friend when he learned that I was between jobs after our move to Canada. The email subject simply read “Job Hackers Agile MBA Referral” so I honestly thought this was one of those Ten-Day or Thirty-Day MBA programs and almost dismissed it.

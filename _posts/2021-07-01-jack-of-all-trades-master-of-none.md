@@ -3,6 +3,9 @@ layout: post
 title:  "Jack of All Trades. Master of None."
 date:   2021-07-01
 description: Jack of all trades. Master of None. This is my negative self talking. This is my insecurities getting the best of me. All those years...
+image: assets/images/2021-07-01-jack-of-all-trades-master-of-none.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 This is my negative self talking. This is my insecurities getting the best of me.

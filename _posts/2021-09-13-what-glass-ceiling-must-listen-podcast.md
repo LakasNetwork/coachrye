@@ -3,6 +3,9 @@ layout: post
 title:  "What Glass Ceiling. Must Listen Podcast."
 date:   2021-09-13
 description: What Glass Ceiling are real conversations with inspiring women about their journeys — the struggles, the doubts, the joys, and all the glass ceilings that must be shattered along the way..
+image: assets/images/2021-09-13-what-glass-ceiling-must-listen-podcast.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 I first listened to the What Glass Ceiling Podcast last week when the episode with [Mikee Cojuangco-Jaworski](https://open.spotify.com/episode/7df1buHm5LCk5Ky8QgyZeS?si=ezFgVI9gT3KG4UwaiiriXg&dl_branch=1) came out. One episode, that’s all it took. I was hooked. This has to be one of the most insightful podcasts I’ve ever subscribed to. I binged-listened (?) all 12 episodes of season 2 in two days!

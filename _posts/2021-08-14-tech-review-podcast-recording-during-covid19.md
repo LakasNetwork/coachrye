@@ -3,6 +3,9 @@ layout: post
 title:  "Tech Review: Welder. Podcast Recording during COVID19"
 date:   2021-08-14
 description: Remote podcast recording. One of those tools that I did not know I needed, but was so happy to find.
+image: assets/images/2021-08-14-tech-review-podcast-recording-during-covid19.png
+author: rye
+categories: [ Tech Talk ]
 ---
 
 Remote podcast recording.

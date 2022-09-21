@@ -3,6 +3,9 @@ layout: post
 title:  "How to Get a Good Night’s Sleep"
 date:   2021-09-20
 description: Check out Doc Didoy's 10-3-2-1-0 rule to get a good night’s sleep
+image: assets/images/2021-09-20-how-to-get-a-good-nights-sleep.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 Lying down, standing up. Tossin’ and Turnin’. That’s pretty much my routine these past few weeks. It’s been a while since I’ve been able to get a good night’s sleep, but it has gotten worst. Moving to a night shift schedule certainly did not help.

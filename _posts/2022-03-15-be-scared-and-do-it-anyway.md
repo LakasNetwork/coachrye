@@ -3,6 +3,11 @@ layout: post
 title:  "Be Scared And Do It Anyway"
 date:   2022-03-15
 description: No harm in trying! Just Do It! Be Scared And Do It Anyway!
+image: assets/images/2022-03-15-be-scared-and-do-it-anyway.png
+author: rye
+featured: true
+hidden: true
+categories: [ Coaching Convos ]
 ---
 
 ## Bonjour from Canada! 🇨🇦

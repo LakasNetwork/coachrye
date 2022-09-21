@@ -3,6 +3,9 @@ layout: post
 title:  "Take Care Of Yourself. Find Your B.L.I.S.S."
 date:   2021-08-24
 description: It is NOT selfish to take care of yourself first.
+image: assets/images/2021-08-24-take-care-of-yourself-find-your-bliss.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 It is NOT selfish to take care of yourself first.

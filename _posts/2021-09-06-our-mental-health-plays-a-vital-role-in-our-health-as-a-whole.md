@@ -3,6 +3,9 @@ layout: post
 title:  "Our Mental Health Plays a Vital Role in our Health as a Whole"
 date:   2021-09-06
 description: You are so normally mentally with it.. I guess that’s why going through that was a lot tougher.
+image: assets/images/2021-09-06-our-mental-health-plays-a-vital-role-in-our-health-as-a-whole.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 > <small>You are so normally mentally with it..</small>

@@ -3,6 +3,9 @@ layout: post
 title:  "Product Camp: Product Management workshop for Filipinos"
 date:   2021-10-04
 description: It’s a good time to be in product. Salaries are 3x higher than the U.S. mean average, and over 55% of respondents say they’re hiring in the next six months.
+image: assets/images/2021-10-04-product-camp-product-management-workshop-for-filipinos.png
+author: rye
+categories: [ Coaching Convos, Tech Talk ]
 ---
 
 ## A Quick History

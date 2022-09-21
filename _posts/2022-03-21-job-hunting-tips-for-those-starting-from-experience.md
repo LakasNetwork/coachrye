@@ -3,6 +3,9 @@ layout: post
 title:  "Job Hunting Tips for those Starting From Experience"
 date:   2022-03-21
 description: Frustration. Self-Doubt. Fear of the future. These are all the thoughts and emotions I’ve been going through the last few weeks. Starting something or, in our case, somewhere new is not easy. I did not expect it to be. I’ve always been the hope-for-the-best-expect-the-worst kind of guy so I knew what was coming. Still, I...
+image: assets/images/2022-03-21-job-hunting-tips-for-those-starting-from-experience.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 # Frustration. Self-Doubt. Fear of the future.
 

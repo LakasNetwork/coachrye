@@ -3,6 +3,9 @@ layout: post
 title:  "Everyone should learn to CODE"
 date:   2021-10-18
 description: I think everybody in this country should learn how to program a computer… because it teaches you how to think. -- Steve Jobs
+image: assets/images/2021-10-18-everyone-should-learn-to-code.png
+author: rye
+categories: [ Tech Talk ]
 ---
 
 > “I think everybody in this country should learn how to program a computer… because it teaches you how to think.”

@@ -3,7 +3,9 @@ layout: post
 title:  "How Exercise And Meditation Support Your Mental Health"
 date:   2022-08-08
 description: Let's take a deeper look into why Exercise and Meditation are some of the most important activities you can do to improve your mental health
+image: assets/images/2022-08-08-how-exercise-and-meditation-support-your-mental-health.png
 author: bash
+categories: [ Mindful Musings ]
 ---
 Working on our physical well-being is just one part of achieving overall wellness. We also need to tend to our minds and emotions because [our mental health plays a vital role in our health as a whole](/blog/our-mental-health-plays-a-vital-role-in-our-health-as-a-whole/). Over the past few years, the world has paid more attention to mental health—for a good reason. We are more in tune with our emotions and know that we’re stressed, anxious, and worried.
 

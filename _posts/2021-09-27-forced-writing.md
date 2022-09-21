@@ -3,6 +3,9 @@ layout: post
 title:  "Forced Writing"
 date:   2021-09-27
 description: Writing about the writing exercise
+image: assets/images/2021-09-27-forced-writing.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 Writing about the writing exercise! This feels like Inception The Movie. 🤪 Some call it the [Stream of Consciousness](https://writingexplained.org/grammar-dictionary/stream-of-consciousness) writing exercise but I am not that comfortable with this term yet. Yes, I do let it flow at times but it does not always flow and, more often than not, I still have to force things out of me.

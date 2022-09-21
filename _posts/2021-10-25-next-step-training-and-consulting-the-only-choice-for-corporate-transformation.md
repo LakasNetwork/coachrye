@@ -3,6 +3,11 @@ layout: post
 title:  "Next Step Training & Consulting: The only choice for corporate transformation"
 date:   2021-10-25
 description: Take your team to the next step with Next Step Training & Consulting, the ONLY choice for corporate transformation.
+image: assets/images/2021-10-25-next-step-training-and-consulting-the-only-choice-for-corporate-transformation.png
+author: rye
+featured: true
+hidden: true
+categories: [ Coaching Convos ]
 ---
 
 Next Step Training & Consulting, the best training and consulting company in the country, just celebrated their 10th year anniversary this month. Best, really? Yes, really!
@@ -12,6 +17,8 @@ First, let me just share some things during the time that I worked with them, an
 ## What did you enjoy about working with Next Step Training & Consulting?
 
 This might come as a cliche but it’s really the people. It’s not just the lead facilitators and consultants, by the way, I loved the clients as well. Time spent with these folks was always fun and insightful. I also enjoyed how almost every session was a new experience. Part of Next Step’s mission is ***to provide a fresh approach to developing people***, and, boy, did we live up to this. We were always coming up with new modules and new activities, and always personalizing our content in each session.
+
+![2015-2018]({{ site.baseurl }}/assets/images/2021-10-25-next-step-training-and-consulting-the-only-choice-for-corporate-transformation-2.png)
 
 ## Favourite memory of working with Next Step
 
@@ -26,6 +33,8 @@ So, yeah, that was a non-answer but you can’t really blame me. That fresh appr
 I remember getting the distinction of Most Requests by a Consultant a couple of years back. No, no. Clients did not request for me. I requested to be rostered. I consider this an accomplishment because it was the best year for me in terms of learning. I learned so much from working with different lead consultants, different programs and, of course, different clients. Of course, I learned and I earned 😅
 
 I was also able to (temporarily) get over my fear of leading large groups. I was able to lead a couple of activities with over 100 participants. There was even a time I co-hosted an event with over 300 participants. Yes, my knees were shaking like crazy but I got it done. *pats myself on the back*
+
+![2019-2021]({{ site.baseurl }}/assets/images/2021-10-25-next-step-training-and-consulting-the-only-choice-for-corporate-transformation-3.png)
 
 ## What has working with Next Step Training & Consulting taught you?
 

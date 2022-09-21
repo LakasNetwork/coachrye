@@ -4,6 +4,9 @@ title:  "Dirty Tap Water"
 author: rye
 date:   2022-08-01
 description: If you turn a dirty tap on it’s gonna flow shit water out for a substantial amount of time and then clean water’s gonna start flowing.
+image: assets/images/2022-08-01-dirty-tap-water.png
+author: rye
+categories: [ Mindful Musings ]
 ---
 
 A wise man once said …

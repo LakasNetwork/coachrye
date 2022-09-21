@@ -3,7 +3,9 @@ layout: post
 title:  "More Than Words: 7 Impacts of Positive Words of Encouragement"
 date:   2022-08-22
 description: Here are seven ways positive words of encouragement impacts people who give and receive them.
+image: assets/images/2022-08-22-more-than-words-7-impacts-of-positive-words-of-encouragement.png
 author: bash
+categories: [ Mindful Musings ]
 ---
 There will never be a time when criticism will be better than positivity. Many people experience challenges, and criticism can only sink them more. [Words of encouragement for people stuck in tough situations](https://pigeonly.com/pigeonly-blog/words-of-encouragement-for-someone-in-jail/) enlighten their lives even more.
 

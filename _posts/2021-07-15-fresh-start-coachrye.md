@@ -3,6 +3,9 @@ layout: post
 title:  "Fresh Start for CoachRye.com"
 date:   2021-07-15
 description: About a year ago, I decided to purge all my old blog posts dating all the way back to late 2000s. Yes, I’ve been blogging that long and it's time to purge!
+image: assets/images/2021-07-15-fresh-start-coachrye.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 About a year ago, I decided to purge all my old blog posts dating all the way back to late 2000s. Yes, I’ve been blogging that long.

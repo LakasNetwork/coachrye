@@ -3,6 +3,9 @@ layout: post
 title:  "A new podcast is launching soon!"
 date:   2021-07-20
 description: We’re still working on the details of the podcast but I’m really excited about this.
+image: assets/images/2021-07-20-new-podcast-launching-soon.png
+author: rye
+categories: [ Tech Talk ]
 ---
 
 We’re still working on the details of the podcast but I’m really excited about this.

@@ -3,6 +3,9 @@ layout: post
 title:  "Around The Bonfire Podcast is now LIVE"
 date:   2021-09-03
 description: Houston, we have liftoff!!! The Around the Bonfire Podcast is now LIVE.
+image: assets/images/2021-09-03-around-the-bonfire-podcast-is-now-live.png
+author: rye
+categories: [ Coaching Convos, Tech Talk ]
 ---
 
 Houston, we have liftoff!!! The [Around the Bonfire Podcast](/blog/new-podcast-launching-soon/) is now LIVE.

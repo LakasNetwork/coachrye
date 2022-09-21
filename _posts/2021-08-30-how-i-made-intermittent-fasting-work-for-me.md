@@ -3,6 +3,9 @@ layout: post
 title:  "How I Made Intermittent Fasting Work For Me"
 date:   2021-08-30
 description: I don’t think I can intermittent fasting. Won’t last a week. Can’t imagine doing this while working. I might get hangry and take it out on my teammates. There’s no way I’ll survive while stuck at home, too much food in the fridge.
+image: assets/images/2021-08-30-how-i-made-intermittent-fasting-work-for-me.png
+author: rye
+categories: [ Coaching Convos ]
 ---
 
 *I don’t think I can intermittent fasting. Won’t last a week. Can’t imagine doing this while working. I might get hangry and take it out on my teammates. There’s no way I’ll survive while stuck at home, too much food in the fridge.*

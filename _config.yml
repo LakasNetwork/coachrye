@@ -11,7 +11,7 @@ disqus: 'coachrye'
 sendfox-id: 10enon
 sendfox-list: https://sendfox.com/form/10vrx3/10enon
 include: ["_pages"]
-permalink: /:year/:month/:day/:title
+permalink: /:year/:title
 
 # Authors
 authors:
