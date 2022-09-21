@@ -3,6 +3,18 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
+/* Customizations by Rye */
+
+.quote {
+    background-color:#a9a9a9; 
+    padding:1rem; 
+    line-height:1;
+    font-size: smaller;
+    font-style: italic;
+  }
+/* End of Customizations by Rye */
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -12,7 +24,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #0000FF; /* #00ab6b; */
     transition: all 0.2s;
 }
 
