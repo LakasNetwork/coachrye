@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Climate Leadership Initiative and How To Start It"
-date:   2022-08-22
+date:   2022-11-16
 description: Let's take a closer look at what climate leadership entails and how you can implement it within your organization to effect real change.
 image: assets/images/2022-11-16-the-climate-leadership-initiative-and-how-to-start-it.jpg
 author: bash
