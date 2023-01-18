@@ -4,6 +4,7 @@ title: About Coach Rye
 permalink: /about
 comments: false
 ---
+
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <h4><em>Performance Coach. Productivity Geek. Entrepreneur.</em></h4>
@@ -38,6 +39,12 @@ font-style: normal;
 </tbody>
 </table>
 
+<div style="font-size:2.5rem; margin-top: 10px;">
+        <a href="http://instagr.am/coachrye"><i class="fa-brands fa-square-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/ryansalvanera/"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="http://fb.me/coachrye34"><i class="fa-brands fa-facebook"></i></a>
+        <a href="http://twitter.com/coachrye34"><i class="fa-brands fa-twitter"></i></a></div>
+
 </div>
 
 <div class="col-md-4">
@@ -53,3 +60,5 @@ font-style: normal;
 </div>
 </div>
 </div>
+
+
