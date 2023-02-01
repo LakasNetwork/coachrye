@@ -3,32 +3,65 @@ layout: simple
 title: Welcome!!!
 ---
 
-<table width="100%">
-    <tr><td width="50%">Be the Master of Yourself</td>
-        <td width="50%"><form method="post"
-                action="https://sendfox.com/form/10vrx3/10enon"
-                class="sendfox-form" id="10enon" data-async="true"
-                data-recaptcha="false">
-                <p><label for="sendfox_form_name">First Name: </label><input
-                        type="text" id="sendfox_form_name" placeholder="First
-                        Name" name="first_name" required /></p>
-                <p><label for="sendfox_form_email">Email: </label><input
-                        type="email" id="sendfox_form_email" placeholder="Email"
-                        name="email" required /></p>
-                <p><label><input type="checkbox" name="gdpr" value="1" required
-                            /> I agree to receive email updates and promotions.</label></p>
-                <!-- no botz please -->
-                <div style="position: absolute; left: -5000px;"
-                    aria-hidden="true"><input type="text" name="a_password"
-                        tabindex="-1" value="" autocomplete="off" /></div>
-                <p><button type="submit">Subscribe</button></p>
-            </form>
-            <script src="https://sendfox.com/js/form.js"></script></td></tr>
-            <tr><td><a href="/blog" class="btn btn-primary homepage-button">Read The Blog</a></td>
-                <td><a href="/about" class="btn btn-primary homepage-button">Get to Know Coach Rye</a></td></tr>
-            <style>
-                .homepage-button {
-                    font-size: 2rem;
-                }
-            </style>
-        </table>
+<div class="container">
+  <div class="row">
+    <div class="left col-md-6">HAVE SOMETHING HERE</div>
+    <div class="right col-md-6">
+      <h1>Be the Master of Yourself</h1>
+
+      <div class="container">
+        <form
+          id="sendfox" method="post"
+          action="https://sendfox.com/form/10vrx3/10enon"
+          class="sendfox-form" id="10enon" data-async="true"
+          data-recaptcha="false">
+          <div class="form-group">
+            <input class="form-control form-control-lg"
+              type="text" id="sendfox_form_name" placeholder="First Name"
+              name="first_name" required />
+          </div>
+          <div class="form-group">
+            <input class="form-control form-control-lg"
+              type="email" id="sendfox_form_email" placeholder="Email"
+              name="email" required />
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="gdpr"
+              value="1" checked required />
+            <label class="form-check-label">I agree to receive email updates
+              and promotions.</label>
+          </div>
+          <div style="position: absolute; left: -5000px;"
+            aria-hidden="true"><input type="text" name="a_password"
+              tabindex="-1" value="" autocomplete="off" /></div>
+          <button type="submit" class="btn btn-danger btn-lg w-100">Let's Go</button>
+        </form>
+        <p>&nbsp;</p>
+        <p class="lead">
+          Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+        </p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 text-center p-2"><a href="/blog" class="btn
+        btn-primary btn-lg w-100">Read The Blog</a></div>
+    <div class="col-md-6 text-center p-2"><a href="/about" class="btn
+        btn-secondary btn-lg w-100">Get to Know Coach Rye</a></div>
+  </div>
+</div>
+
+<style>
+  .sendfox .form-control {
+    font-size: 1.5rem;
+    margin: .25rem;
+  }
+.left {
+  background: lightblue;
+  /* Just so it's visible */
+}
+.right {
+  background: lightgreen;
+}
+</style>
