@@ -1,7 +1,7 @@
 # Site
 name: "Coach Rye"
 title: "Coach Rye"
-description: "Be the Master of Yourself."
+description: "Jack of All Trades. Master of Myself."
 logo: 'assets/images/logo.png'
 # favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
@@ -52,7 +52,7 @@ jekyll-archives:
     
 # Pagination 
 paginate: 6
-paginate_path: /blog/page:num/
+paginate_path: /page:num/
     
 # Other
 markdown: kramdown
