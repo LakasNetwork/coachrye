@@ -1,61 +1,73 @@
 ---
-layout: default
-title: Home
+layout: simple
+title: Welcome!!!
 ---
 
-{% if page.url == "/" %}
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Featured</span></h2>
+<div class="container">
+  <div class="row" style="margin-top: 50px;">
+    <div class="left col-md-6">
+      <img src="https://avatars.githubusercontent.com/u/53946861" style="width:
+        100%; border-radius: 10%; "/>
     </div>
-    <div class="row">
+    <div class="right col-md-6">
+      <h1 class="text-center">Learn To Be The<br/>Master Of Yourself</h1>
 
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
+      <div class="container">
+        <form
+          id="sendfox" method="post"
+          action="https://sendfox.com/form/10vrx3/10enon"
+          class="sendfox-form" id="10enon" data-async="true"
+          data-recaptcha="false">
+          <div class="form-group">
+            <input class="form-control form-control-lg"
+              type="text" id="sendfox_form_name" placeholder="First Name"
+              name="first_name" required />
+          </div>
+          <div class="form-group">
+            <input class="form-control form-control-lg"
+              type="email" id="sendfox_form_email" placeholder="Email"
+              name="email" required />
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="gdpr"
+              value="1" checked required />
+            <label class="form-check-label">I agree to receive email updates
+              and promotions.</label>
+          </div>
+          <div style="position: absolute; left: -5000px;"
+            aria-hidden="true"><input type="text" name="a_password"
+              tabindex="-1" value="" autocomplete="off" /></div>
+          <button type="submit" class="btn btn-danger btn-lg w-100">Let's Go</button>
+        </form>
+        <p>&nbsp;</p>
+        <p class="lead">
+          Asking the RIGHT QUESTIONS allows you to get to the ANSWERS that you NEED -- in your career, business and personal life. Here, we'll teach you to build that habit.
+        </p>
+        <p>&nbsp;</p>
+      </div>
     </div>
-</section>
-
-{% endif %}
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
-
-    </div>
-
-</section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+  </div>
+  <div class="row">
+    <div class="col-md-6 text-center p-2"><a href="/blog" class="btn
+        btn-primary btn-lg w-100">READ THE BLOG</a></div>
+    <div class="col-md-6 text-center p-2"><a href="/about" class="btn
+        btn-secondary btn-lg w-100">GET TO KNOW COACH</a></div>
+  </div>
 </div>
 
+
+
+<style>
+  .sendfox .form-control {
+    font-size: 1.5rem;
+    margin: .25rem;
+  }
+  /* Just so it's visible
+  .left {
+    background: lightblue;
+  }
+  .right {
+    background: lightgreen;
+  }
+  */
+</style>
