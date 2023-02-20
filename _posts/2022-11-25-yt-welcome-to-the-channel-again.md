@@ -6,7 +6,8 @@ description: (YouTube Episode) Announcing the relaunch of my channel! I will try
 image: assets/images/2022-11-25-yt-welcome-to-the-channel-again.jpg
 youtube: Hg-zgRznWrw
 author: rye
-categories: [ Mindful Musings, YouTube ]
+categories: [ Mindful Musings ]
+tags: [ YouTube ]
 ---
 <br>
 >
