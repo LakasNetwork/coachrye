@@ -6,7 +6,8 @@ description: (YouTube Episode) What does it mean to have a better life? Check ou
 image: assets/images/2022-12-04-yt-better-life.jpg
 youtube: jEpQSC1j1WU
 author: rye
-categories: [ Mindful Musings, YouTube ]
+categories: [ Mindful Musings ]
+tags: [ YouTube ]
 ---
 <br>
 > What does it mean to have a better life? Well, that really depends on your situation. Let's be real and ask ourselves which areas we need to focus on today! Your focus may change next month, next week or even tomorrow... but, today, what do you need to work on?
