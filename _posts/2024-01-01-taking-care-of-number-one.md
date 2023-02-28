@@ -1,7 +1,7 @@
 ---
 layout:         post
-title:          ""
-description:    "Realization"
+title:          I lost my MOJO and I want it BACK!
+description:    Realization
 date:           2024-01-01 04:34:00 -05:00:00
 author:         rye
 categories:     [ Mindful Musings, Coaching Convos ]
@@ -12,18 +12,21 @@ redirect_from:
   - /post/30
 ---
 
-# Introduction
-- Brought up during Weekly Review with Alaine
-- What happened to your mojo?
-- I was doing OK then it disappeared?
+A few weeks back, during our weekly Casa Salvanera review, Alaine and I looked at past goals and noticed that my passion projects have been stagnant, specifically coaching. 
 
-# Reasons
+> Alaine asked the tough question, "What happened to your coaching mojo?"
 
-## Mental Health Issues
+<iframe src="https://giphy.com/embed/mD44sZCdqtR3AbChoB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-## Big Change -- Before the Move
+I'm not going to get into all the things we listed down from <a href="/post/8">my mental health issues</a>, <a href="/post/20">preparing and the aftermath of moving to Canada</a>, and so much more. 
 
-## BIg Change -- After the Move
+<small>*I'm not saying it's not important to introspect! It is. It's just a long process that deserves it's own post. That'll come soon.*</small>
 
-# Now What?
+What I want to share now is the reminder I got to **ALWAYS TAKE CARE OF NUMBER ONE**.
+
+Yup, take care of ourselves first!
+
+## What are you doing to take care of yourself?
+
+
 
