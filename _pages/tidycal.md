@@ -7,6 +7,15 @@ comments: false
 
 <div class="container">
     <div class="card-deck mb-3 text-center">
+        <!--<div class="card mb-4 box-shadow">
+            <div class="card-header">
+            <h4 class="mb-0">30 Minute Session</h4>
+            </div>
+            <div class="card-body d-flex flex-column">
+            <p>Set up a FREE 20 minute introductory call. There's absolutely no obligation to continue after our session.</p>
+            <button class="btn btn-block btn-outline-primary btn-lg mt-auto" style="white-space: normal;">Book now</button>
+            </div>
+        </div>-->
         <div class="card mb-4 box-shadow">
             <div class="card-header">
             <h4 class="mb-0">30 Minute Session</h4>
