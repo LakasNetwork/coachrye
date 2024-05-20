@@ -28,8 +28,15 @@ layout: redirect-episode
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const episode = urlParams.get('episode');
-const title = urlParams.get('title');
 const link = urlParams.get('link');
+title = urlParams.get('title');
+
+if (title == null) {
+  title = "";
+} else {
+  title = " : " + title;
+}
+
 </script>
 </head>
 <body>
@@ -49,7 +56,7 @@ div.center-middle p {
 </style>
 <div class="center-middle" style="">
     <p>You will be redirected to</br>
-    <strong>Episode <script>document.write(episode + " : " + title);</script>: </strong>
+    <strong>Episode <script>document.write(episode + title);</script></strong>
     </p>
     <script>
       window.location.replace("https://open.spotify.com/episode/"+link);
