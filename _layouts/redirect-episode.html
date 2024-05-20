@@ -1,0 +1,58 @@
+---
+layout: redirect-episode
+---
+<!-- 
+  SAMPLE
+  http://127.0.0.1:4000/spotify-episode?episode=10&title=A%20Long%20Journey%20to%20Making%20Canada%20Home&link=6Oxsf7U0CQ3jJeuCCHk3nK
+  http://coachrye.com/spotify-episode?episode=10&title=A%20Long%20Journey%20to%20Making%20Canada%20Home&link=6Oxsf7U0CQ3jJeuCCHk3nK
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ page.title }}</title>
+<!-- change your GA id in _config.yml -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  if (typeof custom_name == 'undefined') {
+    var custom_name = document.title;
+  };
+  gtag('config', '{{ site.google_analytics }}',{
+    {% if jekyll.environment != 'production' %}    'debug_mode':true, {% endif %}'page_title' : custom_name
+  });
+</script>
+<script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const episode = urlParams.get('episode');
+const title = urlParams.get('title');
+const link = urlParams.get('link');
+</script>
+</head>
+<body>
+<style>
+div.center-middle {
+    text-align: center;
+    font-size: xx-large;
+    height: 10em;
+    position: relative }
+div.center-middle p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+</style>
+<div class="center-middle" style="">
+    <p>You will be redirected to</br>
+    <strong>Episode <script>document.write(episode + " : " + title);</script>: </strong>
+    </p>
+    <script>
+      window.location.replace("https://open.spotify.com/episode/"+link);
+    </script>
+</div>
+</body>
