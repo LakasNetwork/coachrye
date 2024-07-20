@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2024-07-21 02:34:00 -05:00:00
+date:   2024-07-21 00:23:00 00:00:00
 title:  "Life is too short to live through others' stories."
 description: "If you decide to share your journey publicly, please let me know here so we can exchange stories together."
 redirect_from: 
