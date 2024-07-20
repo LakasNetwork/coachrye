@@ -1,4 +1,4 @@
-name: Build every 1234hrs UTC
+name: Build every 123hrs UTC
 
 on:
   schedule:
