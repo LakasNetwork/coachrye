@@ -1,8 +1,8 @@
-name: Build every 123hrs UTC
+name: Build every 0034hrs UTC
 
 on:
   schedule:
-   - cron: '23 1 * * *'
+   - cron: '34 0 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
