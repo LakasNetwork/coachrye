@@ -4,7 +4,7 @@ date:   2024-07-28 00:23:00 00:00:00
 title:  "Life is too short to live through others' stories."
 description: "If you decide to share your journey publicly, please let me know here so we can exchange stories together."
 redirect_from: 
-  - /blog/34
+  - /post/34
 image: assets/images/2024-07-28-people-sharing-stories.jpg
 author: rye
 categories: [ Mindful Musings ]
