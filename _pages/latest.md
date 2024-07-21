@@ -1,10 +1,30 @@
+---
+layout: post-single
+title: Latest Article
+permalink: /latest
+---
+<div class="h-100 d-flex align-items-center justify-content-center border-bottom mb-5 bg-dark">
+<div class="d-flex align-items-center " >
+        <h1 class=" fs-1 fw-bolder text-light"><span>Latest Article</span></h1>
+    </div></div>
+<!-- Begin Article
+================================================== -->
+{% assign post = site.posts | first %}
+{% include post-single.html %}
+
+<!-- Begin Comments
+================================================== -->
+{% if post.comments != false %}
+<div class="container">
+<div id="comments" class="row justify-content-center mb-5">
+<div class="col-md-8">
 <section class="disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         var disqus_shortname = '{{site.disqus}}'; 
         var disqus_developer = 0;
         var disqus_config = function () {
-            this.page.url = '{{post.url}}';
+            this.page.url = 'https://localhost:4000{{post.url}}';
          };
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -15,3 +35,9 @@
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </section>
+</div>
+</div>
+</div>
+{% endif %}
+<!--End Comments
+================================================== -->
