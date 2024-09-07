@@ -3,6 +3,7 @@ layout: page
 title: About Coach Rye
 permalink: /about
 comments: false
+image: assets/images/CoachRye-Card.jpg
 ---
 
 <div class="row justify-content-between">
