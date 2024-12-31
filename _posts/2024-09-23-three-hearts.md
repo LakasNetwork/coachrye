@@ -8,7 +8,7 @@ redirect_from:
 image:          assets/images/2024-09-23.jpg
 YouTube:       
 categories:     [ Mindful Musings ]
-tags:           [ TV Lessons ]
+tags:           [ TV Lessons, Shogun ]
 featured:       false
 author:         rye
 published:      true
