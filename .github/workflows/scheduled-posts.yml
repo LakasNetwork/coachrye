@@ -25,12 +25,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Set up Ruby
+      - name: Set up Ruby 3.1
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '3.1.0'
       - name: Install dependencies
-        run: bundle install
+        run: |
+          gem install bundler -v 2.6.5
+          bundle install
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
