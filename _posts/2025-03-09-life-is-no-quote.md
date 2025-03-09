@@ -9,7 +9,7 @@ redirect_from:
 image: assets/images/2025-03-09.jpg
 YouTube:
 categories: [ Mindful Musings, Coaching Convos ]
-tags: [ Quotes ]
+tags: [ Quotes, BeyondQuotes, CantQuoteThis ]
 featured: false
 author: rye
 published: true
@@ -24,3 +24,5 @@ Take the saying, _“People don’t leave jobs, they leave managers.”_ It’s 
 We like simple explanations—snappy quotes, viral headlines, or political soundbites that confirm what we already believe. But reality is more complicated.
 
 So, the next time a quote or a headline grabs your attention, pause. Dig deeper. Because life isn’t black and white, and the truth is always more than just a few well-crafted words.
+
+> [BeyondQuotes](/tags#BeyondQuotes) is a series that highlights quotes and beliefs that often oversimplify life. Reality is messy, and its lessons can't be neatly wrapped up in a few lines. [#CantQuoteThis](/tags#CantQuoteThis)
