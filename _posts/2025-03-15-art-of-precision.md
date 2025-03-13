@@ -9,7 +9,7 @@ redirect_from:
 image: assets/images/2025-03-15.jpg
 YouTube:
 categories: [ Mindful Musings, Coaching Convos ]
-tags: [ Time, Action, House MD ]
+tags: [ Consulting, Lessons, Next Step, Precision, Attention To Details ]
 featured: false
 author: rye
 published: true
