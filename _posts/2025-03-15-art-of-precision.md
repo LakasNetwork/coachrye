@@ -15,7 +15,7 @@ author: rye
 published: true
 ---
 
-When I first joined Next Step as a consultant, I was shocked by how detailed they were in their planning.
+When I first joined <a href="https://findthenextstep.com" target="_blank">Next Step</a> as a consultant, I was shocked by how detailed they were in their planning.
 
 We were preparing the convention center for a national event, setting up activities (we never called them "games"). At first, it seemed like standard event prep—taping the floor to mark station placements, dividing the space evenly. But then I saw just how far they took it.
 

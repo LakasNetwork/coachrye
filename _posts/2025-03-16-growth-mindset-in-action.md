@@ -15,11 +15,11 @@ author: rye
 published: true
 ---
 
-With Next Step, my growth mindset… well, grew. ☺️
+With <a href="https://findthenextstep.com" target="_blank">Next Step</a>, my growth mindset… well, grew. ☺️
 
-I’ve always been interested in personal development, productivity, and efficiency, but Next Step was where I truly applied those concepts. We didn’t just preach growth mindset in training sessions—we lived it.
+I’ve always been interested in personal development, productivity, and efficiency, but <a href="https://findthenextstep.com" target="_blank">Next Step</a> was where I truly applied those concepts. We didn’t just preach growth mindset in training sessions—we lived it.
 
-I won’t go into the details of Carol Dweck’s research (you can Google her or, better yet, invite Next Step to train your team 😉), but I will share how I experienced growth mindset firsthand.
+I won’t go into the details of <a href="https://en.wikipedia.org/wiki/Carol_Dweck" target="_blank">Carol Dweck’s</a> research (you can Google her or, better yet, invite <a href="https://findthenextstep.com" target="_blank">Next Step</a> to train your team 😉), but I will share how I experienced growth mindset firsthand.
 
 - **Effort Leads to Growth**  
     I spent countless hours observing training programs—many of them unpaid. But that effort paid off. Not only did I learn different programs, but I also got to see a variety of training styles in action.
@@ -31,8 +31,8 @@ I won’t go into the details of Carol Dweck’s research (you can Google her or
     I made plenty of mistakes, but I learned from them. One of my fondest memories of real-time feedback was when one of the partners casually ran behind me during an event to remind me to bring more energy. It was a small moment, but it shaped the way I approached public speaking.
     
 - **Focus on the Process, Not Just the Outcome**  
-    At Next Step, I learned that skills are built. You don’t have to be naturally great at something—you just need the right process, effort, and mindset to improve.
+    At <a href="https://findthenextstep.com" target="_blank">Next Step</a>, I learned that skills are built. You don’t have to be naturally great at something—you just need the right process, effort, and mindset to improve.
     
 
-Next Step didn’t just teach me about growth mindset. They ingrained it in me.
+<a href="https://findthenextstep.com" target="_blank">Next Step</a> didn’t just teach me about growth mindset. They ingrained it in me.
 

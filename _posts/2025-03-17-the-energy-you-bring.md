@@ -15,7 +15,7 @@ author: rye
 published: true
 ---
 
-Another valuable lessons I learned from Next Step is the power of **energy**—not just what you say, but how you say it.
+Another valuable lessons I learned from <a href="https://findthenextstep.com" target="_blank">Next Step</a> is the power of **energy**—not just what you say, but how you say it.
 
 In any setting, whether it's a one-on-one conversation, a small meeting, or a massive convention, energy plays a crucial role. And you can’t bring the same level of energy to every situation—you have to adjust.
 
