@@ -81,6 +81,8 @@ section.recent-posts {
     font-weight: 700;
     font-size: 1.4rem;
     margin-bottom: 27px;
+    font-variant: small-caps;
+    text-align: center;
 }
 
 .section-title span {
