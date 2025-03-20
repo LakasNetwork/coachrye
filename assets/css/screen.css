@@ -21,6 +21,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .mainheading {
     padding: 1rem 0rem;
+    display: none;
 }
 
 a {
@@ -313,8 +314,10 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    /* max-height: 30px; */
+    max-height: 100px; 
     margin-right: 5px;
+    margin-block: -50px;
 }
 
 .mainheading h1.sitetitle {
