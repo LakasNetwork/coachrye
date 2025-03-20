@@ -20,8 +20,7 @@ License: https://www.wowthemes.net/freebies-license/
     .container {max-width:80%;}
 }
 .mainheading {
-    padding: 1rem 0rem;
-    display: none;
+    /* padding: 1rem 0rem; */
 }
 
 a {
@@ -322,6 +321,10 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: Righteous;
+    display: none;
+}
+.lead {
+    display: none;
 }
 
 .mainheading h1.posttitle {
