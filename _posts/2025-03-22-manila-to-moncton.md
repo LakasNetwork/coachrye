@@ -16,9 +16,9 @@ published: true
 toc: true
 ---
 
-# From Manila to Moncton: My Canadian Journey
+# From Manila to Moncton: Our Canadian Journey
 
-When people ask me about my path to [Moncton](https://www.moncton.ca/), I often joke that we've done a cross-country tour of Canada before finding our way to New Brunswick. 😂 The truth is, like many immigration stories, ours hasn't been a straight line – it's been a winding road filled with tough decisions, unexpected turns, and ultimately, finding a place that feels right.
+When people ask me about our path to [Moncton](https://www.moncton.ca/), I often joke that we've done a cross-country tour of Canada before finding our way to New Brunswick. 😂 The truth is, like many immigration stories, ours hasn't been a straight line – it's been a winding road filled with tough decisions, unexpected turns, and ultimately, finding a place that feels right.
 
 ## The Toronto Chapter 🏙️
 
