@@ -13,7 +13,7 @@ sendfox-list: https://sendfox.com/form/10vrx3/10enon
 include: ["_pages"]
 permalink: /:year/:title
 future: false
-
+toc: true
 
 # Authors
 authors:

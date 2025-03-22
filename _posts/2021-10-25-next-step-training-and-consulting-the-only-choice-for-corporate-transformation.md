@@ -5,7 +5,6 @@ date:   2021-10-25
 description: Take your team to the next step with Next Step Training & Consulting, the ONLY choice for corporate transformation.
 image: assets/images/2021-10-25-next-step-training-and-consulting-the-only-choice-for-corporate-transformation.png
 author: rye
-featured: true
 hidden: true
 categories: [ Coaching Convos ]
 ---
