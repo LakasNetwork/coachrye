@@ -12,7 +12,7 @@ categories: [ Moncton Diaries ]
 tags: [ Blog Journey, Moncton Life, Immigrant Experience ]
 featured: false
 author: rye
-published: true
+published: false
 ---
 
 ## A Shift in Direction (But Not Purpose)
