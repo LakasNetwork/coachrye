@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Catch Up with Me
+title: Schedule a Discovery Call
 permalink: /discovery
 comments: false
 ---
