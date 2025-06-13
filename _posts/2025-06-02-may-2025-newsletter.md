@@ -70,4 +70,4 @@ More power to you,
 
 
 
-_P.S. Seriously, don't forget to follow me on YouTube and Facebook. That's where all the magic happens now! 🎬_
+_P.S. Seriously, don't forget to follow me on [YouTube](http://youtube.coachrye.com/) and [Facebook](https://www.facebook.com/coachrye34). That's where all the magic happens now! 🎬_
