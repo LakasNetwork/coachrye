@@ -9,7 +9,7 @@ redirect_from:
 image: assets/images/2025-05-04.jpg
 YouTube:
 categories: [ Newsletter ]
-tags: [ Blog Journey, Moncton Life, Immigrant Experience ]
+tags: [ Blog Journey, Moncton Life, The Immigrant Chronicles ]
 featured: false
 author: rye
 published: true

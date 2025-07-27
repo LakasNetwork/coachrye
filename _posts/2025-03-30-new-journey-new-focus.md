@@ -9,7 +9,7 @@ redirect_from:
 image: assets/images/2025-03-30.jpg
 YouTube:
 categories: [ Moncton Diaries ]
-tags: [ Blog Journey, Moncton Life, Immigrant Experience ]
+tags: [ Blog Journey, Moncton Life, The Immigrant Chronicles ]
 featured: false
 author: rye
 published: false
