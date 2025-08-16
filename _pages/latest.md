@@ -3,10 +3,10 @@ layout: post-single
 title: Latest Article
 permalink: /latest
 ---
-<div class="h-100 d-flex align-items-center justify-content-center border-bottom mb-5 bg-dark">
-<div class="d-flex align-items-center " >
-        <h1 class=" fs-1 fw-bolder text-light"><span>Latest Article</span></h1>
-    </div></div>
+<div class="section-title">
+    <h2><span>Latest Article</span></h2>
+</div>
+
 <!-- Begin Article
 ================================================== -->
 {% assign post = site.posts | first %}
