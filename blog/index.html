@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Featured Posts
+title: Blog
+pagination:
+  enabled: true
+  collection: posts
+  per_page: 12
+  sort_field: 'date'
+  sort_reverse: true
 ---
-
-{% if page.url == "/blog/" %}
 
 <!-- Featured
 ================================================== -->
@@ -12,21 +16,30 @@ title: Featured Posts
         <h2><span>Featured</span></h2>
     </div>
     <div class="row">
-        
         {% for post in site.posts %}
-        
-        {% if post.featured == true %}
-        
-        {% include featuredbox.html %}
-        
-        {% endif %}
-        
+            {% if post.featured == true %}
+                {% include featuredbox.html %}
+            {% endif %}
         {% endfor %}
-        
     </div>
 </section>
 
-{% endif %}
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>All Stories</span></h2>
+    </div>
+    <div class="row listrecent">
+        {% for post in paginator.posts %}
+            {% include postbox.html %}
+        {% endfor %}
+    </div>
+</section>
 
-
-
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>

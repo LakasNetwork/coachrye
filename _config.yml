@@ -38,7 +38,7 @@ authors:
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -53,9 +53,9 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
+# (per-page pagination configured in page front-matter)
+pagination:
+  enabled: true
     
 # Other
 markdown: kramdown
