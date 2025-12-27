@@ -8,6 +8,8 @@ author: rye
 featured: true
 hidden: true
 categories: [ Coaching Convos ]
+redirect_from:
+  - /post/20
 ---
 
 ## Bonjour from Canada! 🇨🇦

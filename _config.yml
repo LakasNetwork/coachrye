@@ -12,6 +12,8 @@ sendfox-id: 10enon
 sendfox-list: https://sendfox.com/form/10vrx3/10enon
 include: ["_pages"]
 permalink: /:year/:title
+future: false
+toc: true
 
 # Authors
 authors:
@@ -22,7 +24,7 @@ authors:
     gravatar: 8754b881e61a7906ce6acea815478a4f
     email: rye@coachrye.com
     web: https://www.coachrye.com
-    twitter: https://twitter.com/coachrye34
+    facebook: https://fb.me/coachrye34
     description: "Performance Coach. Productivity Geek. Entrepreneur."
   bash:
     name: Bash Sarmiento
@@ -41,7 +43,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+  - jekyll-redirect-from
+
 # Archives
 jekyll-archives:
   enabled:
@@ -52,7 +55,7 @@ jekyll-archives:
     
 # Pagination 
 paginate: 6
-paginate_path: /blog/page:num/
+paginate_path: /page:num/
     
 # Other
 markdown: kramdown

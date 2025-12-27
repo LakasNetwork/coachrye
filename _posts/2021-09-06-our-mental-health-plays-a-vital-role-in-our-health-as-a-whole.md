@@ -6,6 +6,8 @@ description: You are so normally mentally with it.. I guess that’s why going t
 image: assets/images/2021-09-06-our-mental-health-plays-a-vital-role-in-our-health-as-a-whole.png
 author: rye
 categories: [ Coaching Convos ]
+redirect_from:
+  - /post/8
 ---
 
 > <small>You are so normally mentally with it..</small>
