@@ -324,9 +324,9 @@ span.post-read-more a:hover {
     font-family: Righteous;
     display: none;
 }
-p.lead {
+/* p.lead {
     display: none;
-}
+} */
 
 .mainheading h1.posttitle {
     font-weight: 700;
