@@ -3,6 +3,10 @@ name: Build every 0034hrs UTC
 on:
   schedule:
    - cron: '34 0 * * *'
+  
+  push:
+    branches:
+      - release-coachrye
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
