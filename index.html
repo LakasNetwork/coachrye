@@ -1,62 +1,113 @@
 ---
-layout: default
-title: Home
-image: assets/images/CoachRye-Card.jpg
+layout: simple
+title: Welcome
 ---
 
-{% if page.url == "/" %}
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Featured</span></h2>
+<div class="container">
+  <div class="row px-4 py-4 bg-main">
+    <div class="left col-md-6">
+      <h1 class="text-left text-white">Leadership and Technology<br/>in a Modern World.</h1>
+      <p class="lead mx-auto homepage-inquiry-caption text-grey">Building high-performance web applications and the leaders who run them. We use the power of strategic inquiry to solve technical complexity and human challenges.</p>
+      <div class="col-md-6 text-center p-0"><a href="https://tidycal.com/coachrye" target="_tidycal" class="btn
+        btn-primary btn-lg w-100">Start The Conversation</a></div>
     </div>
-    <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
+    <div class="right col-md-6">
+      <img src="/assets/images/site-cover-photo.jpg" class="rounded"/>
     </div>
-</section>
+  </div>
+  <div class="row mt-5">
+    <div class="col-md-12 text-center p-1">
+      <h2 class="text-primary text-uppercase tracking-widest mb-3 homepage-inquiry-heading">
+        Our Philosophy
+        <!--The Power of Inquiry-->
+      </h2>
 
-{% endif %}
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
+      <h3 class="mb-4 homepage-inquiry-subheading">
+        Asking the <span class="text-primary font-bold">RIGHT QUESTIONS</span> allows you <br class="d-none d-md-block"/>
+        to get to the <span class="text-primary font-bold">ANSWERS</span> that you <span class="text-primary font-bold">NEED</span>
+      </h3>
+      
+      <div class="mx-auto mb-4" style="width: 60px; height: 3px; background-color: #0d6efd;"></div>
+      
+      <p class="lead text-muted mx-auto homepage-inquiry-caption">
+        Most business hurdles are solved by better questions, not just more effort. 
+        I partner with founders and teams to build a <strong>culture of inquiry</strong>, 
+        developing custom technical systems and leadership habits that turn curiosity into a competitive advantage.
+      </p>
 
     </div>
+  </div>
+  <div class="row py-4 bg-main">
+    <div class="col-md-12 text-center p-1">
+      <h2 class="text-white text-uppercase tracking-widest mb-3 homepage-inquiry-heading">The Solutions</h2>
+    </div>
+    <div class="col-md-3 d-none d-md-block"></div>
+    <div class="col-12 col-md-3">
+        <h5 class="text-center text-grey">Technical Solutions</h5>
+          <ul class="list-group">
+          <li class="list-group-item small p-1 m-0 border-0 bg-main text-grey"><i class="fas fa-check-circle mr-1"></i>Custom Web Application Development</li>
+          <li class="list-group-item small p-1 m-0 border-0 bg-main text-grey"><i class="fas fa-check-circle mr-1"></i>Software Architecture & Strategy</li>
+          <li class="list-group-item small p-1 m-0 border-0 bg-main text-grey"><i class="fas fa-check-circle mr-1"></i>Legacy System Modernization</li>
+        </ul>
+        <div class="text-center pt-1">
+          <a href="https://tidycal.com/coachrye" target="_tidycal" class="btn btn-primary btn-sm w-100">Explore Tech Solutions</a></div>
+    </div>
+    <div class="col-12 col-md-3">
+        <h5 class="text-center text-grey">Leadership Solutions</h5>
+        <ul class="list-group">
+          <li class="list-group-item small p-1 m-0 border-0 bg-main text-grey"><i class="fas fa-check-circle mr-1"></i>Executive & Performance Coaching</li>
+          <li class="list-group-item small p-1 m-0 border-0 bg-main text-grey"><i class="fas fa-check-circle mr-1"></i>CliftonStrengths® Discovery & Integration</li>
+          <li class="list-group-item small p-1 m-0 border-0 bg-main text-grey"><i class="fas fa-check-circle mr-1"></i>Strengths-Based Team Development</li>
+        </ul>
+        <div class="text-center pt-1">
+            <a href="https://tidycal.com/coachrye" target="_tidycal" class="btn btn-primary btn-sm w-100">Explore Leadership Solutions</a></div>
+    </div>
+    <div class="col-md-3 d-none d-md-block"></div>
+  </div>
+  <div class="row py-4 bg-main">
+    <div class="col-md-12 text-center p-1">
+      <h5 class="text-white text-uppercase tracking-widest mb-3 homepage-inquiry-heading">Stay ahead of the curve.</h5>
+    </div>
+    <div class="left col-md-3"></div>
+    <div class="left col-md-3 small text-justify text-grey">
+      Join my weekly newsletter for insights on the intersection of modern technology and the habits of high-performance leadership.
+    </div>
+    <div class="left col-md-3">
+      <form
+        id="sendfox" method="post" action="https://sendfox.com/form/10vrx3/10enon"
+        class="sendfox-form small" id="10enon" data-async="true" data-recaptcha="false">
+        <div>
+          <input class="form-control form-control-sm"
+            type="text" id="sendfox_form_name" placeholder="First Name"
+            name="first_name" required />
+        </div>
+        <div>
+          <input class="form-control form-control-sm"
+            type="email" id="sendfox_form_email" placeholder="Email"
+            name="email" required />
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="gdpr"
+            value="1" checked required />
+          <label class="form-check-label small text-grey">I agree to receive email updates
+            and promotions.</label>
+        </div>
+        <div style="position: absolute; left: -5000px;"
+          aria-hidden="true"><input type="text" name="a_password"
+            tabindex="-1" value="" autocomplete="off" /></div>
+        <button type="submit" class="btn btn-danger btn-sm w-100">Let's Go</button>
+      </form>
+    </div>
+    <div class="left col-md-3"></div>
+  </div>
 
-</section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
 </div>
 
+
+
+<style>
+  .sendfox .form-control {
+    font-size: 1.5rem;
+    margin: .25rem;
+  }
+</style>

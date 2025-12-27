@@ -15,9 +15,32 @@ figcaption {
 	background-color: aliceblue;
 	padding: 5px;
 }
+.text-grey {
+	color: #c6c6c6;
+}
+.bg-main {
+	background-color: #022b82;
+}
+.homepage-inquiry-heading {
+	font-size: 0.9rem; 
+	letter-spacing: 0.2rem; 
+	font-weight: 700;
+}
+.homepage-inquiry-subheading {
+	font-family: 'Playfair Display', serif; 
+	font-size: 2.5rem; 
+	line-height: 1.2; 
+	color: #1a1a1a;
+	font-style: italic;
+}
+.homepage-inquiry-caption {
+	max-width: 768px; 
+	font-size: 1.15rem; 
+	line-height: 1.6;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
-;
+// @import
+// 	"syntax",
+//     "starsnonscss"
+// ;
