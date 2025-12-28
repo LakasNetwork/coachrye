@@ -5,7 +5,9 @@ License: https://www.wowthemes.net/freebies-license/
 */
 
 /* Customizations by Rye */
-
+.small-caps {
+    font-variant: small-caps;
+}
 .quote {
     background-color:#a9a9a9; 
     padding:1rem; 
