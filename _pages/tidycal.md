@@ -32,7 +32,7 @@ comments: false
                                 <li class="mb-2"><i class="bi bi-check2 text-primary me-2"></i>CliftonStrengths® Integration Insights</li>
                                 <li class="mb-2"><i class="bi bi-check2 text-primary me-2"></i>No obligation, just high-value inquiry</li>
                             </ul>
-                            <a href="#" class="btn btn-primary btn-lg w-100">Book Your Discovery Call</a>
+                            <a href="/book-discovery" class="btn btn-primary btn-lg w-100">Book Your Discovery Call</a>
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ comments: false
                 <div class="card-body p-4">
                     <h3 class="h6 fw-bold mb-3">Leadership & Strengths Session</h3>
                     <p class="text-muted small">60-minute deep dive into your Gallup CliftonStrengths® profile and leadership habits.</p>
-                    <a href="#" class="btn btn-outline-dark btn-sm w-100 mt-auto">Schedule Coaching</a>
+                    <a href="/book-coaching" class="btn btn-outline-dark btn-sm w-100 mt-auto">Schedule Coaching</a>
                 </div>
             </div>
         </div>
@@ -59,13 +59,13 @@ comments: false
                 <div class="card-body p-4">
                     <h3 class="h6 fw-bold mb-3">Technical Strategy & Sprint Review</h3>
                     <p class="text-muted small">Dedicated time for app architecture, code review, or product milestone planning.</p>
-                    <a href="#" class="btn btn-outline-dark btn-sm w-100 mt-auto">Schedule Tech Review</a>
+                    <a href="/book-consulting" class="btn btn-outline-dark btn-sm w-100 mt-auto">Schedule Tech Review</a>
                 </div>
             </div>
         </div>
     </div>
     <div class="text-center mt-5 p-4 bg-light rounded-4">
-        <p class="mb-0 text-muted">Looking for a <strong>Strengths-Based Team Workshop</strong>? <a href="#" class="text-primary fw-bold">Contact me directly</a> for corporate pricing and availability.</p>
+        <p class="mb-0 text-muted">Looking for a <strong>Strengths-Based Team Workshop</strong>? <a href="/book-workshop-discovery" class="text-primary fw-bold">Contact me directly</a> for corporate pricing and availability.</p>
     </div>
 </div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
