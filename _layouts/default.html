@@ -134,6 +134,7 @@
 {% elsif site.sendfox-list %}
         <form method="post" action="{{ site.sendfox-list }}" class="sendfox-form" id="{{ site.sendfox-id }}" data-async="true" data-recaptcha="true">
             <div class="mc-field-group">
+            <input type="hidden" id="sendfox_form_name" value="NoName" name="first_name" required />
             <input type="email" placeholder="Email" name="email" class="required email" id="email" autocomplete="on" required>
             <input type="hidden" name="gdpr" value="1" checked />
             <input type="submit" value="Subscribe" name="subscribe" class="heart">
