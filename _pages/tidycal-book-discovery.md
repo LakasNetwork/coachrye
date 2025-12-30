@@ -2,6 +2,8 @@
 layout: page
 title: Strategic Discovery Session
 permalink: /book-discovery
+redirect_from:
+- /discovery
 comments: false
 ---
 

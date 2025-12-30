@@ -9,8 +9,8 @@ url: 'https://www.coachrye.com'
 google_analytics: 'G-F6E3JNRTKK'
 disqus: 'coachrye'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-sendfox-id: 10enon
-sendfox-list: https://sendfox.com/form/10vrx3/10enon
+sendfox-id: 1xgw89
+sendfox-list: https://sendfox.com/form/10vrx3/1xgw89
 include: ["_pages"]
 permalink: /:year/:title
 future: false
