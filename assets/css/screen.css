@@ -453,10 +453,9 @@ blockquote {
     }
 
     .alertbar input[type="email"] {
-        margin-right: 0px !Important;
+        margin-right: 1px !Important;
         display: block;
         border-right: 1px solid #ddd !Important;
-        margin-bottom: 10px;
     }
 
     .jumbotron {
@@ -595,8 +594,9 @@ ul.tags li a:hover {
     padding: 3px 5px 3px 10px;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
     border: 1px solid #ddd;
-    border-right: 0;
     margin-right: -10px;
     height: 34px;
     letter-spacing: 0.5px;

@@ -4,62 +4,73 @@ title: About Coach Rye
 permalink: /about
 comments: false
 image: assets/images/CoachRye-Card.jpg
+nosubscribe: true
 ---
-
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-<h4><em>Performance Coach. Productivity Geek. Entrepreneur.</em></h4>
-<p class="has-drop-cap has-medium-font-size"><strong>Coach Rye</strong>&nbsp;is a <em>Gallup Certified StrengthsFinder Coach</em> whose passion is to help <strong>unleash</strong> the <strong>unique superpowers</strong> which he believes lie in all of us. Coach Rye invests and interacts with his coachees to facilitate their growth, development, and performance, <em>bringing them from good to great to </em><strong><em>awesome</em></strong><em>!</em> He also partners with different organizations as a facilitator and a trainer.</p>
-<style>
-.has-medium-font-size {
-font-size: var(--wp--preset--font-size--medium) !important;
-}
-.has-drop-cap:not(:focus)::first-letter {
-float: left;
-font-size: 8.4em;
-line-height: 0.68;
-font-weight: 100;
-margin: 0.05em 0.1em 0 0;
-text-transform: uppercase;
-font-style: normal;
-}
-</style>
-
-<p class="intro">Ryan has over 10 years of experience managing and coaching teams, and individuals from his years in the I.T. industry. He has worked for world-renowned establishments and multinational corporations including Ateneo De Manila University, De La Salle University, Accenture (Navitaire) and Oracle.</p>
-<p>Ryan, together with his wife and business partners, has launched numerous business ventures — from food kiosks to lunch box delivery services to photography services.</p>
-
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td style="width: 20%; text-align: center; color: #fff; background-color: #1f4c75; font-size: 0.75rem;">Relator</td>
-<td style="width: 20%; text-align: center; color: #fff; background-color: #5c3a6d; font-size: 0.75rem;">Arranger</td>
-<td style="width: 20%; text-align: center; color: #fff; background-color: #9a0200; font-size: 0.75rem;">Learner</td>
-<td style="width: 20%; text-align: center; color: #fff; background-color: #da892e; font-size: 0.75rem;">Maximizer</td>
-<td style="width: 20%; text-align: center; color: #fff; background-color: #1f4c75; font-size: 0.75rem;">Individualization</td>
-</tr>
-</tbody>
-</table>
-
-<div style="font-size:2.5rem; margin-top: 10px;">
-        <a href="http://instagr.am/coachrye"><i class="fa-brands fa-square-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/ryansalvanera/"><i class="fa-brands fa-linkedin"></i></a>
-        <a href="http://fb.me/coachrye34"><i class="fa-brands fa-facebook"></i></a>
-        <a href="http://twitter.com/coachrye34"><i class="fa-brands fa-twitter"></i></a></div>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+<div class="container py-5">
+    <div class="row g-5">
+        <div class="col-lg-8">
+            <h3 class="serif fw-bold mb-0">Leadership and Technology in a Modern World.</h3>
+<p class="lead text-primary fw-bold mb-4 fs-4">
+    I specialize in building systems that work and leading people who thrive.
+</p>
+<div class="fs-5 text-muted mb-4">
+    <p>I’ve spent over two decades at the intersection of systems and people. From architecting solutions at global firms like <strong>Accenture</strong> and <strong>Oracle</strong> to facilitating performance for industry leaders like <strong>Globe Telecom, Nestlé, and Jollibee Food Corporation</strong>, I’ve learned that technical excellence and team performance are ultimately inseparable.</p>
+    
+    <p>Whether you need to solve a complex technical puzzle, unlock your team's unique talent themes, or bridge the gap between both, I provide the strategic inquiry to help you move from good to great to awesome.</p>
 </div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! This helps us maintain and improve our <a target="_blank" href="https://bonfire.coachrye.com">podcasts <i class="fa fa-podcast"></i></a>.</p>
-
-<a target="_blank" href="https://www.buymeacoffee.com/coachrye" class="btn btn-danger">Buy me a coffee</a> 
-
-<img src="https://avatars.githubusercontent.com/u/53946861" style="width: 100%;  border-radius: 10%; margin-top: 50px;"/>
+                <div class="row">
+                <div class="col-md-6 mb-4">
+                        <div class="p-4 border-start border-primary border-4 bg-light h-100">
+                        <h5 class="fw-bold">The Systems Mindset</h5>
+                        <p class="small mb-0 text-muted">Leveraging two decades of experience with global startups and Fortune 500 companies to architect robust technical solutions and build scalable leadership infrastructure.</p>
+                        </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                        <div class="p-4 border-start border-primary border-4 bg-light h-100">
+                        <h5 class="fw-bold">The Strengths Advantage</h5>
+                        <p class="small mb-0 text-muted">Unleashing unique talent themes and individual superpowers to facilitate the strategic growth required to move teams from good to great to awesome.</p>
+                        </div>
+                </div>
+                </div>
+            <h5 class="fw-bold mb-3">My Top 5 Talent Themes:</h5>
+            <div class="table-responsive rounded-3 shadow-sm mb-4">
+                <table class="table table-borderless text-white text-center mb-0" style="table-layout: fixed;">
+                    <tbody>
+                        <tr>
+                            <td style="background-color: #1f4c75;" class="py-3 px-1 small fw-bold">RELATOR</td>
+                            <td style="background-color: #5c3a6d;" class="py-3 px-1 small fw-bold">ARRANGER</td>
+                            <td style="background-color: #9a0200;" class="py-3 px-1 small fw-bold">LEARNER</td>
+                            <td style="background-color: #da892e;" class="py-3 px-1 small fw-bold text-uppercase">Maximizer</td>
+                            <td style="background-color: #1f4c75;" class="py-3 px-1 small fw-bold">INDIVIDUALIZATION</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="d-flex gap-4 fs-3 mb-5">
+                <a href="https://www.linkedin.com/in/coachrye/" class="text-dark" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                <a href="http://instagr.am/coachrye" class="text-dark" title="Instagram"><i class="bi bi-instagram"></i></a>
+                <a href="http://fb.me/coachrye34" class="text-dark" title="Facebook"><i class="bi bi-facebook"></i></a>
+                <a href="http://twitter.com/coachrye34" class="text-dark" title="X (Twitter)"><i class="bi bi-twitter-x"></i></a>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="sticky-top" style="top: 100px;">
+                <img src="https://avatars.githubusercontent.com/u/53946861" class="img-fluid rounded-4 shadow-sm mb-4" alt="Ryan Salvanera">
+                <div class="card border-0 shadow-sm bg-dark text-white p-4">
+                    <h5 class="fw-bold mb-3">Support the Podcast</h5>
+                    <p class="small opacity-75">Thank you for your support! This helps maintain and improve our podcasts for the community.</p>
+                    <a target="_blank" href="https://www.buymeacoffee.com/coachrye" class="btn btn-primary fw-bold w-100">
+                        <i class="bi bi-cup-hot me-2"></i>Buy me a coffee
+                    </a>
+                </div>
+                <div class="mt-4 text-center">
+                    <a href="pod" class="btn btn-outline-secondary btn-sm rounded-pill px-4">
+                        Explore the Podcast <i class="bi bi-mic ms-1"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-</div>
-</div>
-
 
