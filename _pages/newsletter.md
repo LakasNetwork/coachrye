@@ -6,15 +6,14 @@ comments: false
 nosubscribe: true
 ---
 <style>
-.short-height {
-    line-height: 1.75rem;
-}
+.short-height { line-height: 1.75rem; }
+.nowrap { white-space: nowrap; }
 </style>
 <div class="row justify-content-center">
     <div class="col-lg-8">
         <div class="card border-0 shadow-lg p-4 p-md-5 rounded-4">                   
             <div class="text-center">
-                <p class="short-height lead text-primary fw-semibold">Insights on high-performance technology and human-centric&nbsp;leadership.</p>
+                <p class="short-height lead text-primary fw-semibold">Insights on high-performance technology and <span class="nowrap">human-centric leadership.</span></p>
                 <hr class="w-25 mx-auto border-2 border-primary">
             </div>
             <div class="mb-1">
