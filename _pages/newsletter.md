@@ -14,14 +14,14 @@ nosubscribe: true
     <div class="col-lg-8">
         <div class="card border-0 shadow-lg p-4 p-md-5 rounded-4">                   
             <div class="text-center">
-                <p class="short-height lead text-primary fw-semibold">Insights on high-performance technology and human-centric leadership.</p>
+                <p class="short-height lead text-primary fw-semibold">Insights on high-performance technology and human-centric&nbsp;leadership.</p>
                 <hr class="w-25 mx-auto border-2 border-primary">
             </div>
             <div class="mb-1">
                 <p class="fs-5 text-muted">Most organizational challenges exist at the intersection of technical systems and human dynamics. <strong>The Build & Lead Brief</strong> is a weekly strategic update designed to help you navigate both.</p>
                 <div class="mt-2 px-4">
                 <ul class="list-group">
-                    <li class="list-group-item p-0 m-0 border-0 small"><i class="fas fa-puzzle-piece mr-1"></i><strong>The System:</strong> <span class="text-muted">Strategies for building scalable, sustainable technology.</span></li>
+                    <li class="list-group-item p-0 m-0 border-0 small"><i class="fas fa-puzzle-piece mr-1"></i><strong>The System:</strong> <span class="text-muted">Strategies for building scalable, sustainable technology and systems.</span></li>
                     <li class="list-group-item p-0 m-0 border-0 small"><i class="fas fa-medal mr-1"></i><strong>The Strength:</strong> <span class="text-muted">How to use CliftonStrengths® to lead with clarity and purpose.</span></li>
                     <li class="list-group-item p-0 m-0 border-0 small"><i class="fas fa-lightbulb mr-1"></i><strong>The Inquiry:</strong> <span class="text-muted">One high-impact question to help you "debug" your leadership habits.</span></li>
                 </ul>
