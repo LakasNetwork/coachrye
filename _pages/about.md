@@ -34,18 +34,14 @@ nosubscribe: true
                 </div>
                 </div>
             <h5 class="fw-bold mb-3">My Top 5 Talent Themes:</h5>
-            <div class="table-responsive rounded-3 shadow-sm mb-4">
-                <table class="table table-borderless text-white text-center mb-0" style="table-layout: fixed;">
-                    <tbody>
-                        <tr>
-                            <td style="background-color: #1f4c75;" class="py-3 px-1 small fw-bold">RELATOR</td>
-                            <td style="background-color: #5c3a6d;" class="py-3 px-1 small fw-bold">ARRANGER</td>
-                            <td style="background-color: #9a0200;" class="py-3 px-1 small fw-bold">LEARNER</td>
-                            <td style="background-color: #da892e;" class="py-3 px-1 small fw-bold text-uppercase">Maximizer</td>
-                            <td style="background-color: #1f4c75;" class="py-3 px-1 small fw-bold">INDIVIDUALIZATION</td>
-                        </tr>
-                    </tbody>
-                </table>
+            <div class="rounded-3 shadow-sm overflow-hidden mb-4">
+                <div class="row g-0 text-center text-white fw-bold small text-uppercase">
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #1f4c75;">Relator</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #5c3a6d;">Arranger</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #9a0200;">Learner</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #da892e;">Maximizer</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #1f4c75;">Individualization</div>
+                </div>
             </div>
             <div class="d-flex gap-4 fs-3 mb-5">
                 <a href="https://www.linkedin.com/in/coachrye/" class="text-dark" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
@@ -58,10 +54,12 @@ nosubscribe: true
             <div class="sticky-top" style="top: 100px;">
                 <img src="https://avatars.githubusercontent.com/u/53946861" class="img-fluid rounded-4 shadow-sm mb-4" alt="Ryan Salvanera">
                 <div class="card border-0 shadow-sm bg-dark text-white p-4">
-                    <h5 class="fw-bold mb-3">Support the Podcast</h5>
-                    <p class="small opacity-75">Thank you for your support! This helps maintain and improve our podcasts for the community.</p>
-                    <a target="_blank" href="https://www.buymeacoffee.com/coachrye" class="btn btn-primary fw-bold w-100">
-                        <i class="bi bi-cup-hot me-2"></i>Buy me a coffee
+                    <h5 class="fw-bold mb-3">Support The Community</h5>
+                    <p class="small opacity-75">
+                        I am a proud supporter of <strong>BGC Moncton</strong> (Boys and Girls Club). If you've found value in my content, please join me in supporting their mission to provide local youth with the tools they need to thrive.
+                    </p>
+                    <a target="_blank" href="https://www.bgcmoncton.com/donate" class="btn btn-primary fw-bold w-100">
+                        <i class="bi bi-heart-fill me-2"></i>Donate to BGC Moncton
                     </a>
                 </div>
                 <div class="mt-4 text-center">
