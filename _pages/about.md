@@ -36,11 +36,11 @@ nosubscribe: true
             <h5 class="fw-bold mb-3">My Top 5 Talent Themes:</h5>
             <div class="rounded-3 shadow-sm overflow-hidden mb-4">
                 <div class="row g-0 text-center text-white fw-bold small text-uppercase">
-                    <div class="col-12 col-lg py-3 px-2" style="background-color: #1f4c75;">Relator</div>
-                    <div class="col-12 col-lg py-3 px-2" style="background-color: #5c3a6d;">Arranger</div>
-                    <div class="col-12 col-lg py-3 px-2" style="background-color: #9a0200;">Learner</div>
-                    <div class="col-12 col-lg py-3 px-2" style="background-color: #da892e;">Maximizer</div>
-                    <div class="col-12 col-lg py-3 px-2" style="background-color: #1f4c75;">Individualization</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #0070CD;">Relator</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #7B2481;">Arranger</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #00945D;">Learner</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #E97200;">Maximizer</div>
+                    <div class="col-12 col-lg py-3 px-2" style="background-color: #0070CD;">Individualization</div>
                 </div>
             </div>
             <div class="d-flex gap-4 fs-3 mb-5">
