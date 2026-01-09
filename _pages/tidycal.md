@@ -4,7 +4,7 @@ title: Start the Conversation
 permalink: /book
 comments: false
 ---
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 <div class="container">
     <div class="text-center mb-5">
         <!-- <h1 class="display-5 fw-bold mb-3">Start the Conversation</h1> -->
@@ -41,7 +41,7 @@ comments: false
     </div>
     <hr class="my-5 opacity-25">
     <div class="text-center mb-4">
-        <h2 class="h4 fw-bold small-caps mb-1">Active Partner Portal</h2>
+        <h2 class="h4 fw-bold small-caps mb-1" id="ActivePartnerPortal">Active Partner Portal</h2>
         <p class="text-muted small">Important: These sessions require an active coaching or consulting agreement.</p>
     </div>
     <div class="row g-4 justify-content-center">
@@ -68,4 +68,3 @@ comments: false
         <p class="mb-0 text-muted">Looking for a <strong>Strengths-Based Team Workshop</strong>? <a href="/book-workshop-discovery" class="text-primary fw-bold">Contact me directly</a> for corporate pricing and availability.</p>
     </div>
 </div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
