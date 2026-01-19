@@ -77,7 +77,7 @@ comments: false
                         <li class="mb-1"><i class="bi bi-check2-circle me-2"></i><strong>6 Strategic Deep Dives</strong></li>
                         <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>CliftonStrengths® Full 34 Report</li>
                         <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>6-Month Carry-over Policy</li>
-                        <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>Priority <strong>Telegram</strong> Support</li>
+                        <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>Priority <strong><a href="https://signal.org/" target="_blank">Signal</a></strong> Support</li>
                     </ul>
                     <!-- <button class="btn btn-primary w-100 rounded-pill py-2 fw-bold shadow-sm">Select Alignment</button> -->
                     <a href="https://book.stripe.com/8x2dR8fYOb5Ya7V6Ap6wE01" class="btn btn-primary w-100 rounded-pill py-2 fw-bold shadow-sm">Select Alignment</a>
@@ -95,7 +95,7 @@ comments: false
                         <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>24 Strategic Deep Dives / year</li>
                         <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>CliftonStrengths® Full 34 Report</li>
                         <li class="mb-1"><i class="bi bi-check2-circle me-2"></i><strong>Annual Systems Audit</strong></li>
-                        <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>Priority <strong>Telegram</strong> Support</li>
+                        <li class="mb-1"><i class="bi bi-check2-circle me-2"></i>Priority <strong><a href="https://signal.org/" target="_blank">Signal</a></strong> Support</li>
                     </ul>
                     <!-- <button class="btn btn-outline-dark w-100 rounded-pill py-2 fw-bold">Select Integration</button> -->
                     <a href="https://book.stripe.com/bJedR8eUKfmecg32k96wE02" class="btn btn-outline-dark w-100 rounded-pill py-2 fw-bold">Select Integration</a>
