@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The 34 CliftonStrengths Talent Themes
+title: The 34 CliftonStrengths® Talent Themes
 permalink: /gallup-34
 comments: false
 image: assets/images/CoachRye-Card.jpg
