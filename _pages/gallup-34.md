@@ -94,6 +94,38 @@ nosubscribe: true
         color: var(--primary-navy);
         margin-bottom: 1rem;
     }
+
+    .category-card-strategic:hover {
+        border-color: #00945D;
+    }
+
+    .category-title-strategic {
+        color: #00945D;
+    }
+
+    .category-card-executing:hover {
+        border-color: #7B2481;
+    }
+
+    .category-title-executing {
+        color: #7B2481;
+    }
+
+    .category-card-influencing:hover {
+        border-color: #E97200;
+    }
+
+    .category-title-influencing {
+        color: #E97200;
+    }
+
+    .category-card-relationship:hover {
+        border-color: #0070CD;
+    }
+
+    .category-title-relationship {
+        color: #0070CD;
+    }
     
     .category-description {
         font-size: 1rem;
@@ -108,7 +140,7 @@ nosubscribe: true
         flex-wrap: wrap;
         gap: 0.75rem;
     }
-    
+
     .theme-tag {
         display: inline-block;
         padding: 0.5rem 1rem;
@@ -125,6 +157,21 @@ nosubscribe: true
         background: var(--accent-blue);
         color: var(--white);
         border-color: var(--accent-blue);
+    }
+
+    .theme-tag-strategic:hover {
+        background: #00945D;
+    }
+
+    .theme-tag-executing:hover {
+        background: #7B2481;
+    }
+
+    .theme-tag-influencing:hover {
+        background: #E97200;
+    }
+    .theme-tag-relationship:hover {
+        background: #0070CD;
     }
     
     /* Info Box */
@@ -207,96 +254,87 @@ nosubscribe: true
 </section>
 
 <!-- Main Content -->
-<div class="container content-section">
-    
+<div class="container content-section">    
     <!-- Introduction -->
     <div class="row justify-content-center mb-5">
         <div class="col-lg-10">
             <h2 class="section-title">What Are Talent Themes?</h2>
             <p class="mt-4" style="font-size: 1.1rem;">The CliftonStrengths assessment identifies 34 talent themes—patterns of thinking, feeling, and behaving that are uniquely you. These themes represent your natural talents, and when developed intentionally, they become your greatest strengths.</p>
-            
             <div class="info-box">
                 <h3>Understanding Your Strengths Journey</h3>
                 <p>Think of talent themes as the raw materials of excellence. Just as a sculptor needs quality materials to create a masterpiece, you need to understand your natural talents to build extraordinary strengths. The CliftonStrengths assessment reveals where your greatest potential lies, so you can invest your energy where it matters most.</p>
             </div>
         </div>
     </div>
-
     <!-- Four Domains -->
     <div class="row justify-content-center">
         <div class="col-lg-10">
             <h2 class="section-title mb-4">The Four Domains of Leadership</h2>
             <p class="mb-5" style="font-size: 1.05rem;">The 34 talent themes are organized into four leadership domains. Each domain represents a different way of contributing to team success and organizational excellence.</p>
-
             <!-- Strategic Thinking Domain -->
-            <div class="category-card">
-                <h3 class="category-title">🔍 Strategic Thinking</h3>
+            <div class="category-card category-card-strategic">
+                <h3 class="category-title category-title-strategic">🔍 Strategic Thinking</h3>
                 <p class="category-description">These themes help you absorb and analyze information to make better decisions. People strong in Strategic Thinking bring clarity, foresight, and perspective to teams.</p>
                 <div class="theme-tags">
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252161/analytical-theme.aspx" target="_blank" class="theme-tag">Analytical</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252209/context-theme.aspx" target="_blank" class="theme-tag">Context</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252248/futuristic-theme.aspx" target="_blank" class="theme-tag">Futuristic</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252254/ideation-theme.aspx" target="_blank" class="theme-tag">Ideation</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252260/input-theme.aspx" target="_blank" class="theme-tag">Input</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252278/intellection-theme.aspx" target="_blank" class="theme-tag">Intellection</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx" target="_blank" class="theme-tag">Learner</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252350/strategic-theme.aspx" target="_blank" class="theme-tag">Strategic</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252161/analytical-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Analytical</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252209/context-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Context</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252248/futuristic-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Futuristic</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252254/ideation-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Ideation</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252260/input-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Input</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252278/intellection-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Intellection</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Learner</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252350/strategic-theme.aspx" target="_blank" class="theme-tag theme-tag-strategic">Strategic</a>
                 </div>
             </div>
-
             <!-- Executing Domain -->
-            <div class="category-card">
-                <h3 class="category-title">⚡ Executing</h3>
+            <div class="category-card category-card-executing">
+                <h3 class="category-title category-title-executing">⚡ Executing</h3>
                 <p class="category-description">These themes help you turn ideas into reality. People strong in Executing know how to make things happen and drive projects to completion with excellence.</p>
                 <div class="theme-tags">
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx" target="_blank" class="theme-tag">Achiever</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252167/arranger-theme.aspx" target="_blank" class="theme-tag">Arranger</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252176/belief-theme.aspx" target="_blank" class="theme-tag">Belief</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252203/consistency-theme.aspx" target="_blank" class="theme-tag">Consistency</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252218/deliberative-theme.aspx" target="_blank" class="theme-tag">Deliberative</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252227/discipline-theme.aspx" target="_blank" class="theme-tag">Discipline</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252239/focus-theme.aspx" target="_blank" class="theme-tag">Focus</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252323/responsibility-theme.aspx" target="_blank" class="theme-tag">Responsibility</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252332/restorative-theme.aspx" target="_blank" class="theme-tag">Restorative</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Achiever</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252167/arranger-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Arranger</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252176/belief-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Belief</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252203/consistency-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Consistency</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252218/deliberative-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Deliberative</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252227/discipline-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Discipline</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252239/focus-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Focus</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252323/responsibility-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Responsibility</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252332/restorative-theme.aspx" target="_blank" class="theme-tag theme-tag-executing">Restorative</a>
                 </div>
             </div>
-
             <!-- Influencing Domain -->
-            <div class="category-card">
-                <h3 class="category-title">💬 Influencing</h3>
+            <div class="category-card category-card-influencing">
+                <h3 class="category-title category-title-influencing">💬 Influencing</h3>
                 <p class="category-description">These themes help you speak up, take charge, and ensure your ideas are heard. People strong in Influencing know how to rally others and make things happen.</p>
                 <div class="theme-tags">
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252140/activator-theme.aspx" target="_blank" class="theme-tag">Activator</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252182/command-theme.aspx" target="_blank" class="theme-tag">Command</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252191/communication-theme.aspx" target="_blank" class="theme-tag">Communication</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252197/competition-theme.aspx" target="_blank" class="theme-tag">Competition</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252299/maximizer-theme.aspx" target="_blank" class="theme-tag">Maximizer</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252341/self-assurance-theme.aspx" target="_blank" class="theme-tag">Self-Assurance</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252347/significance-theme.aspx" target="_blank" class="theme-tag">Significance</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252356/woo-theme.aspx" target="_blank" class="theme-tag">Woo</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252140/activator-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Activator</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252182/command-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Command</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252191/communication-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Communication</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252197/competition-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Competition</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252299/maximizer-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Maximizer</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252341/self-assurance-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Self-Assurance</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252347/significance-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Significance</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252356/woo-theme.aspx" target="_blank" class="theme-tag theme-tag-influencing">Woo</a>
                 </div>
             </div>
-
             <!-- Relationship Building Domain -->
-            <div class="category-card">
-                <h3 class="category-title">🤝 Relationship Building</h3>
+            <div class="category-card category-card-relationship">
+                <h3 class="category-title category-title-relationship">🤝 Relationship Building</h3>
                 <p class="category-description">These themes help you build strong connections that hold teams together. People strong in Relationship Building create the bonds that turn groups into teams.</p>
                 <div class="theme-tags">
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252146/adaptability-theme.aspx" target="_blank" class="theme-tag">Adaptability</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252215/connectedness-theme.aspx" target="_blank" class="theme-tag">Connectedness</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252224/developer-theme.aspx" target="_blank" class="theme-tag">Developer</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252233/empathy-theme.aspx" target="_blank" class="theme-tag">Empathy</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252266/harmony-theme.aspx" target="_blank" class="theme-tag">Harmony</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252269/includer-theme.aspx" target="_blank" class="theme-tag">Includer</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252272/individualization-theme.aspx" target="_blank" class="theme-tag">Individualization</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252284/positivity-theme.aspx" target="_blank" class="theme-tag">Positivity</a>
-                    <a href="https://www.gallup.com/cliftonstrengths/en/252311/relator-theme.aspx" target="_blank" class="theme-tag">Relator</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252146/adaptability-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Adaptability</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252215/connectedness-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Connectedness</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252224/developer-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Developer</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252233/empathy-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Empathy</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252266/harmony-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Harmony</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252269/includer-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Includer</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252272/individualization-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Individualization</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252284/positivity-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Positivity</a>
+                    <a href="https://www.gallup.com/cliftonstrengths/en/252311/relator-theme.aspx" target="_blank" class="theme-tag theme-tag-relationship">Relator</a>
                 </div>
             </div>
-
         </div>
     </div>
-
     <!-- How to Use This -->
     <div class="row justify-content-center mt-5">
         <div class="col-lg-10">
@@ -307,17 +345,14 @@ nosubscribe: true
             </div>
         </div>
     </div>
-
 </div>
-
 <!-- CTA Section -->
 <section class="cta-section">
     <div class="container">
         <h3>Ready to Discover Your Strengths?</h3>
         <p style="max-width: 600px; margin: 0 auto; opacity: 0.9;">Let's work together to unlock your unique talents and turn them into exceptional performance.</p>
-        <a href="/cdn-cgi/l/email-protection#aad8d3cfeac9c5cbc9c2d8d3cf84c9c5c7" class="btn-primary">Get Started with Coaching</a>
+        <a href="/book" class="btn-primary">Get Started with a Discovery Session</a>
     </div>
 </section>
-
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
