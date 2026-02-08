@@ -2,6 +2,8 @@
 layout: page
 title: Work With Me
 permalink: /work-with-me
+redirect_from:
+    - book
 comments: false
 nosubscribe: true
 ---
