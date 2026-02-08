@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-02-08 00:23:00 00:00:00
-title: "[Feb 2026] Choosing What Works"
+title: "[Architect Your Success] Choosing What Works"
 description: "After 20+ years in tech, I'm focusing on what I love most: helping people harness their strengths!"
 redirect_from:
 - /post/68
