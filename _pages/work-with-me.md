@@ -172,7 +172,7 @@ nosubscribe: true
     <div class="row pb-4 bg-main">
         <div class="col-md-12 text-center p-1">
             <img alt="Coach Rye Solutions" src="/assets/images/logo-white-horizontal-transparent.png" class="m-auto" style="max-width: 200px;"/>
-            <h5 class="text-white text-uppercase tracking-widest mb-3">Join a community of tech-forward leaders receiving our insights every week.</h5>
+            <h5 class="text-white tracking-widest mb-3">Join Fellow Professionals Harnessing Their Strengths & Architecting Their Success.</h5>
         </div>
         <div class="left col-md-3"></div>
         <div class="left col-md-6">
