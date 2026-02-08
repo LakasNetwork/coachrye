@@ -54,7 +54,7 @@ nosubscribe: true
                         I am a proud supporter of <strong>BGC Moncton</strong> (Boys and Girls Club). If you've found value in my content, please join me in supporting their mission to provide local youth with the tools they need to thrive.
                     </p>
                     <a target="_blank" href="https://www.bgcmoncton.com/donate" class="btn btn-primary fw-bold w-100">
-                        <i class="bi bi-heart-fill me-2"></i>Donate to BGC Moncton
+                        <i class="bi bi-heart-fill me-2"></i> Donate to BGC Moncton
                     </a>
                 </div>
                 <div class="mt-4 text-center">
