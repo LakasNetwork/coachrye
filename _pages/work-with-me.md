@@ -4,6 +4,7 @@ title: Work With Me
 permalink: /work-with-me
 redirect_from:
     - book
+    - engage
 comments: false
 nosubscribe: true
 ---
