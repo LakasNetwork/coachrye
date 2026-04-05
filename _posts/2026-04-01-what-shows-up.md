@@ -15,7 +15,7 @@ author: rye
 published: true
 ---
 
-Three months ago, the company I worked for was acquired. I was part of the group that was let go. And last week, I was standing at a mic at Civic Tech Moncton's Hack4Change event, leading a workshop on how to pitch an MVP in five minutes — not because a client needed me, not because an employer required it, but because someone asked if I had something useful to share. It turned out I did.
+Three months ago, the company I worked for was acquired. I was part of the group that was let go. And last week, I was standing at a mic at Civic Tech Moncton's Hack4Change event, leading a workshop on how to pitch an MVP in five minutes, not because a client needed me, not because an employer required it, but because someone asked if I had something useful to share. It turned out I did.
 
 <center><img alt="Hack4Change Workshop" src="/assets/images/2026-04-01-Hack4Change-Workshop.jpg"></center>
 
