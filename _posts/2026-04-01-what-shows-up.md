@@ -39,5 +39,5 @@ This isn't a silver-linings speech. It's an invitation to pay attention to what 
 
 If this resonated and you're curious about what that looks like for you specifically, I'd love to connect. And if you're ready to get clear on what you're built for and architect the path to get there, let's talk. [Book a free discovery call](https://coachrye.com/book)
 
-Ryan "Coach Rye" Salvanera
-<br/>CliftonStrengths® Performance Coach
+Ryan "Coach Rye" Salvanera<br/>
+CliftonStrengths® Performance Coach
