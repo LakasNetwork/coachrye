@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2026-05-03 00:23:00 00:00:00
+date: 2026-05-01 00:23:00 00:00:00
 title: "[Architect Your Success] They Don't Care About You (And That's Actually Good News)"
 description: "A seminar said it bluntly. A coaching session confirmed it. The same lesson showed up twice in one month."
 redirect_from:
 - /post/71
-- /2026-05-03
+- /2026-05-01
 image: assets/images/2026-05-01.jpg
 YouTube:
 categories: [ Newsletter ]
