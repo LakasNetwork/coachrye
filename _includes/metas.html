@@ -5,7 +5,13 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:title" content="{{ page.title }} | Coach Rye Solutions">
 <meta property="og:description" content="CliftonStrengths® Performance Coaching for Professionals">
+<!-- <meta property="og:image" content="{{ site.url }}/assets/images/coachrye-og-image.jpg"> -->
+
+{% if page.image %}
+<meta property="og:image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}">
+{% else %}
 <meta property="og:image" content="{{ site.url }}/assets/images/coachrye-og-image.jpg">
+{% endif %}
 
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
